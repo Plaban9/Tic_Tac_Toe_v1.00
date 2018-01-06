@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Tic_Tac_Toe_v1.00.cpp
+c:\users\plaba\desktop\study\game development\cpp files\tic_tac_toe_v1.00\tic_tac_toe_v1.00\graphics.h(42): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\plaba\desktop\study\game development\cpp files\tic_tac_toe_v1.00\tic_tac_toe_v1.00\graphics.h(43): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\plaba\desktop\study\game development\cpp files\tic_tac_toe_v1.00\tic_tac_toe_v1.00\graphics.h(212): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+c:\users\plaba\desktop\study\game development\cpp files\tic_tac_toe_v1.00\tic_tac_toe_v1.00\graphics.h(213): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+  Tic_Tac_Toe_v1.00.vcxproj -> C:\Users\plaba\Desktop\Study\Game Development\CPP files\Tic_Tac_Toe_v1.00\Debug\Tic_Tac_Toe_v1.00.exe

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic_Tac_Toe_v1.00", "Tic_Tac_Toe_v1.00\Tic_Tac_Toe_v1.00.vcxproj", "{429C4A25-ADE8-4FCB-A0B7-D19007D26CC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{63F6D312-3FD3-4420-B00D-18070251650C}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+		Performance2.psess = Performance2.psess
+		Performance3.psess = Performance3.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429C4A25-ADE8-4FCB-A0B7-D19007D26CC2}.Debug|x64.ActiveCfg = Debug|x64
+		{429C4A25-ADE8-4FCB-A0B7-D19007D26CC2}.Debug|x64.Build.0 = Debug|x64
+		{429C4A25-ADE8-4FCB-A0B7-D19007D26CC2}.Debug|x86.ActiveCfg = Debug|Win32
+		{429C4A25-ADE8-4FCB-A0B7-D19007D26CC2}.Debug|x86.Build.0 = Debug|Win32
+		{429C4A25-ADE8-4FCB-A0B7-D19007D26CC2}.Release|x64.ActiveCfg = Release|x64
+		{429C4A25-ADE8-4FCB-A0B7-D19007D26CC2}.Release|x64.Build.0 = Release|x64
+		{429C4A25-ADE8-4FCB-A0B7-D19007D26CC2}.Release|x86.ActiveCfg = Release|Win32
+		{429C4A25-ADE8-4FCB-A0B7-D19007D26CC2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22827BF4-711A-40DA-880B-6A0CA272A252}
+	EndGlobalSection
+EndGlobal
